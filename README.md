@@ -1,4 +1,4 @@
-# idm-toolkit
+# IDM Toolkit
 Download - https://github.com/ExtremeMemes/idm-toolkit/releases/latest
 # Features
 - **Activate + Patch Latest Version** - Activates the Key and Patches the IDMan.exe to remove key is not genuine error
