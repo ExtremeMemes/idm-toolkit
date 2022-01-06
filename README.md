@@ -1,5 +1,11 @@
-# IDM Toolkit
+## IDM Toolkit
 Download - https://github.com/ExtremeMemes/idm-toolkit/releases/latest
+# Updates for New Versions
+I will check IDM for updates about every month and will update the patch and post it here.
+
+I am also working for a version with one toolkit for all versions
+
+
 # Features
 - **Activate + Patch Latest Version** - Activates the Key and Patches the IDMan.exe to remove key is not genuine error
 - **Reset Trial + Remove Activation Info** - Removes ALL activation information and Resets your 30 day IDM trial if you are using a trial *THIS WILL NOT REMOVE THE PATCH! TO REMOVE IT, REINSTALL IDM*
