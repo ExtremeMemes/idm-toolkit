@@ -1,5 +1,8 @@
 Windows Registry Editor Version 5.00
 
+;this is by Extreme Memes
+;https://github.com/ExtremeMemes
+
 :THIS IS FOR 32bit OS MACHINES
 [HKEY_LOCAL_MACHINE\SOFTWARE\Internet Download Manager]
 "FName"="Internet"
