@@ -1,0 +1,23 @@
+Windows Registry Editor Version 5.00
+
+:THIS IS FOR 32bit OS MACHINES
+[HKEY_LOCAL_MACHINE\SOFTWARE\Internet Download Manager]
+"FName"="Internet"
+"InstallStatus"=dword:00000003
+"LName"="Download Manager"
+"Email"="info@tonec.com"
+"Serial"="AT4RE-M2000-XXXXX-XXXXX"
+
+
+:THIS IS FOR 64bit OS MACHINES
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Internet Download Manager]
+"FName"="Internet"
+"InstallStatus"=dword:00000003
+"LName"="Download Manager"
+"Email"="info@tonec.com"
+"Serial"="AT4RE-M2000-XXXXX-XXXXX"
+
+
+[HKEY_CURRENT_USER\Software\DownloadManager]
+"TipStartUp"=dword:00000001
+"LstCheck"="31/12/99"
