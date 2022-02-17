@@ -1,7 +1,7 @@
 # IDM Toolkit
 Download - https://github.com/ExtremeMemes/idm-toolkit/releases/latest
 
-#Copyright "Fair Use"
+# Copyright "Fair Use"
 This has been made for only for educational and research purposes.
 
 *note that the following does not apply to this software, just for reference to the offical law.*
@@ -36,7 +36,7 @@ If you want, you can scan any file on your antivirus or https://virustotal.com/
 - **Kill IDM** - Closes the IDMan.exe and IEMonitor.exe tasks
 - **Exit** - Closes the window
 
-FOr Activate + Patch/Installing type only the version number, like "6.40"
+For Activate + Patch/Installing type only the version number, like "6.40"
 
 # Requirements
   - Need Administrator Permissions
