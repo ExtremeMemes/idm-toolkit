@@ -8,7 +8,7 @@ Windows Registry Editor Version 5.00
 "FName"="Internet"
 "InstallStatus"=dword:00000003
 "LName"="Download Manager"
-"Serial"="9QNBL-L2641-Y7WVE-QEN3I"
+"Serial"="7SCA3-NE8EK-QQ3QG-J4D5A"
 
 
 :THIS IS FOR 64bit OS MACHINES
@@ -17,7 +17,7 @@ Windows Registry Editor Version 5.00
 "InstallStatus"=dword:00000003
 "LName"="Download Manager"
 "Email"="info@tonec.com"
-"Serial"="9QNBL-L2641-Y7WVE-QEN3I"
+"Serial"="7SCA3-NE8EK-QQ3QG-J4D5A"
 
 
 [HKEY_CURRENT_USER\Software\DownloadManager]
@@ -29,7 +29,7 @@ Windows Registry Editor Version 5.00
 "InstallStatus"=dword:00000003
 "LName"="Download Manager"
 "Email"="your@email.com"
-"Serial"="9QNBL-L2641-Y7WVE-QEN3I"
+"Serial"="7SCA3-NE8EK-QQ3QG-J4D5A"
 
 
 
