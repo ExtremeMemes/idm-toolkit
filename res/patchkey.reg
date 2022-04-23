@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\DownloadManager]
+"FName"="Internet"
+"LName"="Download Manager"
+"Email"="info@tonec.com"
+"Serial"="7SCA3-NE8EK-QQ3QG-J4D5A"
+
