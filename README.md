@@ -4,7 +4,7 @@ Download - https://github.com/ExtremeMemes/idm-toolkit/releases/latest
 # Copyright "Fair Use"
 This has been made for only for educational and research purposes.
 
-*note that the following does not apply to this software, just for reference to the offical law.*
+*note that the following does not apply to this software, just for reference to the US law.*
 Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism,
 comment, news reporting, teaching, scholarship, education and research.
 Fair use is a use permitted by copyright statute that might otherwise be infringing.
