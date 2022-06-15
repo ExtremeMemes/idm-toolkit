@@ -20,7 +20,7 @@ I will check IDM for updates about every month and will update the patch and pos
 
 
 # License
-Under the MIT License
+Under the GPLv3 License
 https://github.com/ExtremeMemes/idm-toolkit/blob/main/LICENSE
 
 
