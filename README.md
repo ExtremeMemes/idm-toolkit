@@ -36,7 +36,7 @@ If you want, you can scan any file on your antivirus or https://virustotal.com/
 - **Kill IDM** - Closes the IDMan.exe and IEMonitor.exe tasks
 - **Exit** - Closes the window
 
-For Activate + Patch/Installing type only the version number, like "6.40"
+For Activate + Patch/Installing type only the version number, like "6.40" or "6.41"
 
 # Requirements
   - Need Administrator Permissions
@@ -48,7 +48,7 @@ For Activate + Patch/Installing type only the version number, like "6.40"
  - The reset trial has not been tested if it works or not
  
 # Supported IDM Versions
-Version 6.40 is the only supported version at the moment. For an older version, or to save a old version, open a issue
+Version 6.40 & 6.41 are the only supported version at the moment. For an older version, or to save a old version, open a issue and I will try to do it.
 
 # Patch Removal
 To remove the patch, go to the installation directory, delete IDMan.exe, and rename IDMan.bak to IDMan.bak.exe, and it is back to normal
