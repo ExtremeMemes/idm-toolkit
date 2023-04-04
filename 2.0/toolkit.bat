@@ -55,13 +55,13 @@
  ::SCRIPT BEGIN
  ::::::::::::::::::::::::::::
 
-set support=Current supported versions are 6.40. Do not update after you have patched the Software.
+set support=Current supported versions are 6.40 and 6.41. Do not update after you have patched the Software.
 :: %support%
 
 title github.com/ExtremeMemes/idm-toolkit, version 2.0
 echo ===================================
 echo IDM Toolkit v1.0
-echo This Version Supports IDM 6.40
+echo This Version Supports IDM 6.40 to 6.41
 echo ===================================
 
 mkdir rescources
@@ -76,7 +76,7 @@ echo .
 echo .
 
 echo Choose an Option...
-echo Currently Supported Versions: 6.40
+echo Currently Supported Versions: 6.40 & 6.41
 echo 1 - Activate + Patch Latest Version (Installed in C:\Program Files (x86)\Internet Download Manager)
 echo 2 - Activate + Patch Latest Version (Installed in "C:\Program Files\Internet Download Manager")
 echo 3 - Reset Trial + Remove Activation Info (Will not Remove Patch, Reinstall to remove patch)
