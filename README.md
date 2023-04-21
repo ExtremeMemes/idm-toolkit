@@ -55,3 +55,4 @@ To remove the patch, go to the installation directory, delete IDMan.exe, and ren
 
 # Credits
 ExtremeMemes https://github.com/ExtremeMemes
+This reddit post: https://www.reddit.com/r/Piracy/comments/fe8l96/comment/fjmxjdk/
