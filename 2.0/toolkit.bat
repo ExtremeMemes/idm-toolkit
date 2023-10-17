@@ -76,7 +76,7 @@ echo .
 echo .
 
 echo Choose an Option...
-echo Currently Supported Versions: 6.40 & 6.41
+echo Currently Supported Versions: 6.40 and  6.41
 echo 1 - Activate + Patch Latest Version (Installed in C:\Program Files (x86)\Internet Download Manager)
 echo 2 - Activate + Patch Latest Version (Installed in "C:\Program Files\Internet Download Manager")
 echo 3 - Reset Trial + Remove Activation Info (Will not Remove Patch, Reinstall to remove patch)
