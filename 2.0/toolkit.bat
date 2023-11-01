@@ -130,8 +130,8 @@ echo %support%
 SET /p pver=Choose a Version - 
 cd rescources
 :: Add curl, example is curl --silent --output https://insert-url.here/file.exe
-curl --silent --output IDMan.exe https://extremememes.github.io/idm-toolkit/res/%pver%/IDMan.exe
-curl --silent --output patchkey.reg https://extremememes.github.io/idm-toolkit/res/patchkey.reg
+curl --silent --output IDMan.exe https://raw.githubusercontent.com/ExtremeMemes/idm-toolkit/main/res/%pver%/IDMan.exe
+curl --silent --output patchkey.reg https://raw.githubusercontent.com/ExtremeMemes/idm-toolkit/main/res/patchkey.reg
 ren "C:\Program Files (x86)\Internet Download Manager\IDMan.exe" "IDMan.exe.bak"
 echo If you want to remove the patch, delete IDMan.exe and rename IDMan.exe.bak to IDMan.exe
 xcopy IDMan.exe "C:\Program Files (x86)\Internet Download Manager" /i /q /y
@@ -152,8 +152,8 @@ echo .
 echo %support%
 SET /p pver32=Choose a Version - 
 cd rescources
-curl --silent --output IDMan.exe https://extremememes.github.io/idm-toolkit/res/%pver32%/IDMan.exe
-curl --silent --output patchkey.reg https://extremememes.github.io/idm-toolkit/res/patchkey.reg
+curl --silent --output IDMan.exe https://raw.githubusercontent.com/ExtremeMemes/idm-toolkit/main/res/%pver32%/IDMan.exe
+curl --silent --output patchkey.reg https://raw.githubusercontent.com/ExtremeMemes/idm-toolkit/main/res/patchkey.reg
 ren "C:\Program Files\Internet Download Manager\IDMan.exe" "IDMan.exe.bak"
 echo If you want to remove the patch, delete IDMan.exe and rename IDMan.exe.bak to IDMan.exe
 xcopy IDMan.exe "C:\Program Files\Internet Download Manager" /i /q /y
@@ -169,7 +169,7 @@ echo Make sure IDM is closed (EVEN FROM TRAY)
 echo Please also press "Yes" on the popup!
 pause
 cd rescources
-curl --silent --output idm-regreset.reg https://extremememes.github.io/idm-toolkit/res/idm-regreset.reg
+curl --silent --output idm-regreset.reg https://raw.githubusercontent.com/ExtremeMemes/idm-toolkit/main/res/idm-regreset.reg
 regedit idm-regreset.reg
 pause > nul
 del /q idm-regreset.reg
@@ -182,7 +182,7 @@ echo Make sure IDM is closed (EVEN FROM TRAY)
 echo Please also press "Yes" on the popup!
 pause
 cd rescources
-curl --silent --output only-activate.reg https://extremememes.github.io/idm-toolkit/res/only-activate.reg
+curl --silent --output only-activate.reg https://raw.githubusercontent.com/ExtremeMemes/idm-toolkit/main/res/only-activate.reg
 regedit only-activate.reg
 del /q only-activate.reg
 cd..
@@ -196,7 +196,7 @@ echo .
 echo %support%
 SET /p version=Choose a Version - 
 cd rescources
-curl --silent --output idm-install.exe https://extremememes.github.io/idm-toolkit/res/%version%/idm-install.exe
+curl --silent --output idm-install.exe https://raw.githubusercontent.com/ExtremeMemes/idm-toolkit/main/res/%version%/idm-install.exe
 idm-install.exe
 ping 192.0.2.2 -n 1 -w 5000 > nul
 :: PING IS FOR WAITING FOR 5 SECONDS
