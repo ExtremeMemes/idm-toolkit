@@ -169,7 +169,7 @@ echo Make sure IDM is closed (EVEN FROM TRAY)
 echo Please also press "Yes" on the popup!
 pause
 cd rescources
-curl --silent --output idm-regreset.reg https://extremememes.github.io/idm-toolkit/res/idm-regreset.reg
+curl --silent --output idm-regreset.reg https://raw.githubusercontent.com/ExtremeMemes/idm-toolkit/main/res/idm-regreset.reg
 regedit idm-regreset.reg
 pause > nul
 del /q idm-regreset.reg
